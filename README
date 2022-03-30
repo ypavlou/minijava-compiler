@@ -1,0 +1,4 @@
+compile: make
+run: java Main  filename filename ..
+
+Georgia Pavlou - 1115201600133 
