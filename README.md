@@ -12,7 +12,8 @@ Remove object files:
  ##  Run:
   ``` Ruby
 ./java Main filename filename filename ...
-##Symbol Table
+```
+## Symbol Table
 Symbol table is a data structure that helps keep track of semantics of variables. It stores information about the scope of variables, functions, names, classes and objects. 
 -class symbolTable: stores the names of classes, arguments and keeps track of variable and method offsets.
 -class symbolTableStruct: stores variables and method names.
