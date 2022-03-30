@@ -1,4 +1,4 @@
-# MiniJava compiler implementation 
+# MiniJava Static Checking (Semantic Analysis)
 This is a design and implementation of  a compiler's semantic check for the MiniJava language (a small subset of Java) using the tools JavaCC and JTB.
 
  ##  Compilation: 
