@@ -1,6 +1,5 @@
-# MiniJava compiler semantic check implementation 
-This is an implementation of a program that can accept, process, record and answer questions about Bitcoin transactions, considering  a set of <b>data structures </b> (hash
-tables, linked lists, binanry trees) that allow the entry and queries in a large volume of type records.
+# MiniJava compiler implementation 
+This is a design and implementation of  a compiler's semantic check for the MiniJava language (a small subset of Java) using the tools JavaCC and JTB.
 
  ##  Compilation: 
   ``` Ruby
